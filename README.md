@@ -1,3 +1,3 @@
 This work introduces a frequency-dependent Average Scattering Coefficient (ASC) to quantify the room average degree of scattering per mean-free path resulting from sound wave interactions with objects, elements, and impedance discontinuities. These ASCs can be effectively applied in various hybrid room acoustic models, offering significant potential for high-frequency sound field reconstruction with limited computational resources.
 
-Check "ASCandHybridModel.mlx" for the code to extract ASCs and a hybrid model to reconstruct the sound field.
+Check "ASC_HybridModel.mlx" for the code to extract ASCs and a hybrid model to reconstruct the sound field.
